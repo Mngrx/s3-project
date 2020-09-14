@@ -8,6 +8,7 @@
 
 # Para utilizar
 
+Acesse: http://18.217.74.168:5000/
 Crie uma conta no sistema, logue e poderá utilizar as funcionalidades.
 
 # Agradecimentos
