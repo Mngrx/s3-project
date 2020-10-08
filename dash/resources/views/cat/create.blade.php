@@ -27,7 +27,7 @@
                     </div>
                     <div class="form-group">
                         <label for="file">Upload da foto do gato 🐱</label>
-                        <input type="file" class="form-control" id="file" name="file" placeholder="Faça o upload do arquivo">
+                        <input type="file" class="form-control" id="file" name="file" placeholder="Faça o upload do arquivo" accept="image/png, image/jpeg">
                     </div>
                     <button type="submit" class="btn btn-primary">Salvar 🐱</button>
 
