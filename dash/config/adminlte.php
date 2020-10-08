@@ -237,6 +237,11 @@ return [
             'url'         => 'buckets',
             'icon'        => 'fab fa-aws',
         ],
+        [
+            'text'        => 'Balde dos gatos',
+            'url'         => 'cat',
+            'icon'        => 'fas fa-cat',
+        ],
     ],
 
     /*
